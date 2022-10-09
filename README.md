@@ -18,4 +18,4 @@
 - WeakAuras
 
 ### WeakAura help
-crbntyp#2543
+crbntyp#2543 in game most days
