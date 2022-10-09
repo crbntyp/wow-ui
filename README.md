@@ -1,5 +1,4 @@
 # Warcraft UI Addon Configuration backup
----
 ## Addons used
 - Altoholic
 - BetterWardrobe
