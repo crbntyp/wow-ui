@@ -1,0 +1,45 @@
+
+MADB = {
+	["noMMMW"] = false,
+	["characters"] = {
+	},
+	["alwaysShowNudger"] = true,
+	["tooltips"] = true,
+	["profiles"] = {
+		["default"] = {
+			["name"] = "default",
+			["frames"] = {
+				["CharacterFrame"] = {
+					["orgPos"] = {
+						"TOPRIGHT", -- [1]
+						"UIParent", -- [2]
+						"TOPRIGHT", -- [3]
+						-744.0000610351562, -- [4]
+						-192, -- [5]
+					},
+					["groups"] = {
+						false, -- [1]
+						[3] = false,
+					},
+					["disableLayerHighlight"] = false,
+					["disableLayerBackground"] = false,
+					["name"] = "CharacterFrame",
+					["disableLayerArtwork"] = false,
+					["disableLayerBorder"] = false,
+					["disableLayerOverlay"] = false,
+					["pos"] = {
+						"BOTTOMLEFT", -- [1]
+						"UIParent", -- [2]
+						"BOTTOMLEFT", -- [3]
+						2744.888671875, -- [4]
+						475.5554809570313, -- [5]
+					},
+				},
+			},
+		},
+	},
+	["closeGUIOnEscape"] = false,
+	["playSound"] = false,
+	["noBags"] = false,
+	["frameListRows"] = 18,
+}

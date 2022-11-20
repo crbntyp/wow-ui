@@ -1,34 +1,47 @@
 
 DataStore_TalentsDB = {
 	["profileKeys"] = {
+		["Luká - Frostmane"] = "Luká - Frostmane",
 		["Felbladë - Tarren Mill"] = "Felbladë - Tarren Mill",
 		["Gorë - Tarren Mill"] = "Gorë - Tarren Mill",
+		["Öak - Frostmane"] = "Öak - Frostmane",
+		["Fëlblade - Tarren Mill"] = "Fëlblade - Tarren Mill",
 		["Dmthyltryp - Tarren Mill"] = "Dmthyltryp - Tarren Mill",
-		["Yaöb - Tarren Mill"] = "Yaöb - Tarren Mill",
+		["Nervë - Silvermoon"] = "Nervë - Silvermoon",
+		["Väel - Tarren Mill"] = "Väel - Tarren Mill",
+		["Swervë - Tarren Mill"] = "Swervë - Tarren Mill",
+		["Blighthöund - Tarren Mill"] = "Blighthöund - Tarren Mill",
+		["Tidës - Frostmane"] = "Tidës - Frostmane",
+		["Venedictia - Frostmane"] = "Venedictia - Frostmane",
+		["Tribës - Tarren Mill"] = "Tribës - Tarren Mill",
+		["Fabr - Frostmane"] = "Fabr - Frostmane",
+		["Nothoit - Tarren Mill"] = "Nothoit - Tarren Mill",
 		["Nervë - Tarren Mill"] = "Nervë - Tarren Mill",
 		["Notrageqtz - Tarren Mill"] = "Notrageqtz - Tarren Mill",
-		["Nothoit - Tarren Mill"] = "Nothoit - Tarren Mill",
+		["Petrølbømb - Tarren Mill"] = "Petrølbømb - Tarren Mill",
 		["Bäsics - Tarren Mill"] = "Bäsics - Tarren Mill",
-		["Blighthöund - Tarren Mill"] = "Blighthöund - Tarren Mill",
+		["Løtüs - Tarren Mill"] = "Løtüs - Tarren Mill",
 		["Notkeuch - Tarren Mill"] = "Notkeuch - Tarren Mill",
 		["Fëlstriker - Tarren Mill"] = "Fëlstriker - Tarren Mill",
 		["Cëll - Tarren Mill"] = "Cëll - Tarren Mill",
-		["Løtüs - Tarren Mill"] = "Løtüs - Tarren Mill",
-		["Petrølbømb - Tarren Mill"] = "Petrølbømb - Tarren Mill",
-		["Fëlblade - Tarren Mill"] = "Fëlblade - Tarren Mill",
+		["Klöse - Silvermoon"] = "Klöse - Silvermoon",
+		["Ööunusedöö - Tarren Mill"] = "Ööunusedöö - Tarren Mill",
+		["Yaöb - Tarren Mill"] = "Yaöb - Tarren Mill",
 		["Moolerlight - Tarren Mill"] = "Moolerlight - Tarren Mill",
 		["Klöse - Tarren Mill"] = "Klöse - Tarren Mill",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Tarren Mill.Klöse"] = {
-				["activeSpecRole"] = "TANK",
-				["lastUpdate"] = 1665236374,
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1668861760,
 				["Specializations"] = {
-					13691, -- [1]
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
 				},
-				["activeSpecIndex"] = 1,
-				["activeSpecName"] = "Blood",
+				["activeSpecIndex"] = 3,
+				["activeSpecName"] = "Unholy",
 				["Class"] = "DEATHKNIGHT",
 			},
 			["Default.Tarren Mill.Yaöb"] = {
@@ -47,20 +60,20 @@ DataStore_TalentsDB = {
 					[282] = "0|184587|200|5|",
 					[188] = "1|182648|265|10|Marksmanship",
 					[223] = "1|183132|200|5|Beast Mastery",
-					[283] = "2|187506|265|10|",
-					[251] = "1|183202|265|10|Survival",
+					[192] = "1|182657|226|7|Marksmanship",
+					[189] = "1|182649|265|10|Marksmanship",
 					[173] = "2|182476|213|6|",
 					[157] = "2|182441|200|5|",
 					[181] = "0|182605|200|5|",
 					[185] = "1|182621|265|10|Beast Mastery",
-					[189] = "1|182649|265|10|Marksmanship",
-					[192] = "1|182657|226|7|Marksmanship",
+					[251] = "1|183202|265|10|Survival",
+					[283] = "2|187506|265|10|",
 				},
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1665090709,
+				["lastUpdate"] = 1668544584,
 				["Specializations"] = {
 					5798, -- [1]
-					[3] = 9831,
+					[3] = 0,
 				},
 				["activeSpecIndex"] = 3,
 				["activeSpecName"] = "Survival",
@@ -76,66 +89,66 @@ DataStore_TalentsDB = {
 					[1849] = "0|0|0|1|",
 					[1853] = "0|0|0|0|",
 					[844] = "1|0|0|-1|",
-					[1203] = "2|0|0|-1|",
+					[1207] = "0|0|0|-1|",
 					[850] = "3|253|7|1|",
-					[1842] = "2|0|0|-1|",
-					[866] = "3|0|0|-1|",
-					[1850] = "0|0|0|-1|",
+					[834] = "3|0|0|-1|",
+					[1212] = "0|0|0|1|",
+					[1846] = "1|0|0|2|",
 					[858] = "1|0|0|-1|",
 					[860] = "1|0|0|-1|",
 					[862] = "1|0|0|-1|",
 					[1838] = "3|0|0|-1|",
-					[1212] = "0|0|0|1|",
-					[1846] = "1|0|0|2|",
+					[866] = "3|0|0|-1|",
+					[994] = "3|224|10|1|",
 					[870] = "3|157|5|2|",
 					[1854] = "0|0|0|-1|",
-					[1216] = "0|0|0|-1|",
-					[832] = "3|283|10|2|",
-					[1215] = "0|0|0|2|",
-					[1843] = "3|251|10|1|",
-					[837] = "3|0|0|-1|",
+					[864] = "3|0|0|-1|",
+					[1845] = "3|0|0|-1|",
+					[1204] = "0|0|0|-1|",
+					[835] = "1|0|0|0|",
+					[1847] = "3|175|5|0|",
 					[1010] = "3|175|5|0|",
-					[1848] = "3|0|0|-1|",
-					[1214] = "0|0|0|0|",
+					[995] = "3|170|10|2|",
+					[1844] = "1|0|0|-1|",
 					[827] = "3|0|0|-1|",
 					[829] = "1|0|0|2|",
 					[831] = "1|0|0|0|",
 					[1839] = "1|0|0|-1|",
-					[1213] = "0|0|0|2|",
-					[1847] = "3|175|5|0|",
+					[1843] = "3|251|10|1|",
+					[837] = "3|0|0|-1|",
 					[1851] = "0|0|0|-1|",
-					[1210] = "0|0|0|0|",
-					[1206] = "0|0|0|-1|",
+					[1840] = "3|0|0|2|",
+					[863] = "3|0|0|-1|",
 					[1208] = "0|0|0|-1|",
 					[1205] = "0|0|0|-1|",
 					[849] = "1|0|0|2|",
 					[851] = "1|0|0|0|",
-					[1209] = "0|0|0|1|",
-					[1211] = "0|0|0|2|",
 					[833] = "1|0|0|-1|",
+					[1211] = "0|0|0|2|",
+					[1209] = "0|0|0|1|",
 					[859] = "3|0|0|-1|",
 					[1202] = "0|0|0|-1|",
-					[863] = "3|0|0|-1|",
-					[1840] = "3|0|0|2|",
-					[1844] = "1|0|0|-1|",
-					[995] = "3|170|10|2|",
+					[1206] = "0|0|0|-1|",
+					[1210] = "0|0|0|0|",
+					[1214] = "0|0|0|0|",
+					[1848] = "3|0|0|-1|",
 					[1852] = "0|0|0|2|",
-					[835] = "1|0|0|0|",
-					[1204] = "0|0|0|-1|",
-					[1845] = "3|0|0|-1|",
-					[864] = "3|0|0|-1|",
-					[994] = "3|224|10|1|",
+					[1213] = "0|0|0|2|",
+					[1215] = "0|0|0|2|",
+					[832] = "3|283|10|2|",
+					[1216] = "0|0|0|-1|",
+					[1850] = "0|0|0|-1|",
 					[1009] = "1|0|0|2|",
-					[834] = "3|0|0|-1|",
-					[1207] = "0|0|0|-1|",
+					[1842] = "2|0|0|-1|",
+					[1203] = "2|0|0|-1|",
 				},
 				["activeSoulbindID"] = 2,
 			},
 			["Default.Tarren Mill.Nothoit"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1663619463,
+				["lastUpdate"] = 1668801768,
 				["Specializations"] = {
-					[3] = 7609,
+					[3] = 0,
 				},
 				["activeSpecIndex"] = 3,
 				["activeSpecName"] = "Retribution",
@@ -143,23 +156,35 @@ DataStore_TalentsDB = {
 			},
 			["Default.Tarren Mill.Petrølbømb"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1665067680,
+				["lastUpdate"] = 1668854174,
 				["Specializations"] = {
-					[3] = 6842,
+					[3] = 0,
+					[2] = 0,
 				},
-				["activeSpecIndex"] = 3,
-				["activeSpecName"] = "Frost",
+				["activeSpecIndex"] = 2,
+				["activeSpecName"] = "Fire",
 				["Class"] = "MAGE",
 			},
 			["Default.Tarren Mill.Gorë"] = {
 				["activeSpecRole"] = "TANK",
-				["lastUpdate"] = 1664926761,
+				["lastUpdate"] = 1668439854,
 				["Specializations"] = {
-					[3] = 6014,
+					[3] = 0,
+					[2] = 0,
 				},
 				["activeSpecIndex"] = 3,
 				["activeSpecName"] = "Guardian",
 				["Class"] = "DRUID",
+			},
+			["Default.Silvermoon.Nervë"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1667406611,
+				["Specializations"] = {
+					[2] = 0,
+				},
+				["activeSpecIndex"] = 2,
+				["activeSpecName"] = "Fury",
+				["Class"] = "WARRIOR",
 			},
 			["Default.Tarren Mill.Nervë"] = {
 				["Conduits"] = {
@@ -169,25 +194,25 @@ DataStore_TalentsDB = {
 					[5] = "2|180842|213|6|",
 					[10] = "2|180932|200|5|Protection",
 					[11] = "1|180933|200|5|",
-					[13] = "0|180943|200|5|",
-					[12] = "1|180935|200|5|Arms",
-					[283] = "2|187506|226|7|",
-					[52] = "1|181735|213|6|Fury",
-					[49] = "2|181709|226|7|Protection",
-					[50] = "1|181712|213|6|Fury",
-					[7] = "2|180844|200|5|",
-					[169] = "1|182468|200|5|Arms",
-					[27] = "2|181469|200|5|",
-					[284] = "1|187507|213|6|Protection",
-					[14] = "1|180944|226|7|Arms",
-					[154] = "1|182440|200|5|",
-					[191] = "0|182656|213|6|",
 					[186] = "1|182624|200|5|Protection",
+					[12] = "1|180935|200|5|Arms",
+					[191] = "0|182656|213|6|",
+					[169] = "1|182468|200|5|Arms",
+					[49] = "2|181709|226|7|Protection",
+					[13] = "0|180943|200|5|",
+					[284] = "1|187507|213|6|Protection",
+					[52] = "1|181735|213|6|Fury",
+					[27] = "2|181469|200|5|",
+					[14] = "1|180944|226|7|Arms",
+					[7] = "2|180844|200|5|",
+					[154] = "1|182440|200|5|",
+					[50] = "1|181712|213|6|Fury",
+					[283] = "2|187506|226|7|",
 				},
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1665240689,
+				["lastUpdate"] = 1668889410,
 				["Specializations"] = {
-					[2] = 8151,
+					[2] = 0,
 				},
 				["activeSpecIndex"] = 2,
 				["activeSpecName"] = "Fury",
@@ -197,103 +222,208 @@ DataStore_TalentsDB = {
 					[1825] = "3|154|5|1|",
 					[1766] = "1|0|0|0|",
 					[1833] = "1|0|0|-1|",
-					[1380] = "3|5|6|2|",
+					[1829] = "0|0|0|0|",
 					[1408] = "3|0|0|-1|",
 					[1412] = "3|0|0|-1|",
 					[1416] = "3|0|0|-1|",
-					[1377] = "3|283|7|2|",
-					[1372] = "3|0|0|-1|",
+					[1314] = "0|0|0|-1|",
+					[1813] = "0|0|0|-1|",
 					[1365] = "3|8|7|0|",
 					[1369] = "3|0|0|-1|",
 					[1814] = "0|0|0|2|",
-					[1314] = "0|0|0|-1|",
+					[1377] = "3|283|7|2|",
 					[1381] = "3|50|6|1|",
 					[1826] = "3|0|0|-1|",
 					[1830] = "0|0|0|-1|",
 					[1834] = "3|283|7|2|",
-					[1368] = "3|0|0|-1|",
+					[1305] = "3|0|0|1|",
 					[1310] = "0|0|0|-1|",
-					[1303] = "0|0|0|-1|",
+					[1309] = "0|0|0|-1|",
 					[1409] = "1|0|0|2|",
 					[1413] = "1|0|0|0|",
 					[1417] = "1|0|0|-1|",
-					[1815] = "0|0|0|0|",
-					[1378] = "3|0|0|-1|",
+					[1306] = "1|0|0|0|",
+					[1315] = "0|0|0|1|",
 					[1366] = "3|50|6|1|",
 					[1811] = "0|0|0|1|",
 					[1311] = "0|0|0|2|",
-					[1315] = "0|0|0|1|",
+					[1378] = "3|0|0|-1|",
 					[1373] = "1|0|0|-1|",
 					[1827] = "1|0|0|-1|",
 					[1831] = "3|14|7|1|",
 					[1835] = "1|0|0|0|",
 					[1374] = "1|0|0|2|",
-					[1308] = "2|0|0|-1|",
-					[1371] = "1|0|0|-1|",
+					[1370] = "1|0|0|-1|",
+					[1312] = "0|0|0|2|",
 					[1410] = "1|0|0|-1|",
 					[1414] = "1|49|7|2|",
 					[1418] = "3|0|0|-1|",
+					[1816] = "0|0|0|-1|",
+					[1316] = "3|0|0|-1|",
+					[1367] = "1|0|0|-1|",
+					[1308] = "2|0|0|-1|",
 					[1375] = "3|5|6|2|",
 					[1379] = "3|8|7|0|",
-					[1367] = "1|0|0|-1|",
-					[1812] = "0|0|0|-1|",
-					[1312] = "0|0|0|2|",
-					[1316] = "3|0|0|-1|",
-					[1765] = "1|0|0|2|",
 					[1828] = "2|0|0|2|",
+					[1765] = "1|0|0|2|",
 					[1832] = "3|0|0|-1|",
 					[1836] = "3|0|0|-1|",
-					[1816] = "0|0|0|-1|",
-					[1370] = "1|0|0|-1|",
+					[1812] = "0|0|0|-1|",
+					[1371] = "1|0|0|-1|",
 					[1407] = "1|0|0|-1|",
 					[1411] = "1|0|0|-1|",
 					[1415] = "3|154|5|1|",
-					[1306] = "1|0|0|0|",
-					[1309] = "0|0|0|-1|",
+					[1815] = "0|0|0|0|",
+					[1303] = "0|0|0|-1|",
 					[1364] = "1|0|0|1|",
-					[1305] = "3|0|0|1|",
-					[1813] = "0|0|0|-1|",
+					[1368] = "3|0|0|-1|",
+					[1372] = "3|0|0|-1|",
 					[1313] = "0|0|0|0|",
-					[1829] = "0|0|0|0|",
+					[1380] = "3|5|6|2|",
 				},
 				["activeSoulbindID"] = 18,
 			},
+			["Default.Frostmane.Luká"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1668423793,
+				["Specializations"] = {
+					[3] = 0,
+				},
+				["activeSpecIndex"] = 3,
+				["activeSpecName"] = "Retribution",
+				["Class"] = "PALADIN",
+			},
 			["Default.Tarren Mill.Felbladë"] = {
 				["activeSpecRole"] = "TANK",
-				["lastUpdate"] = 1664629723,
+				["lastUpdate"] = 1667411390,
 				["Specializations"] = {
-					[2] = 6894,
+					[2] = 0,
 				},
 				["activeSpecIndex"] = 2,
 				["activeSpecName"] = "Vengeance",
 				["Class"] = "DEMONHUNTER",
 			},
+			["Default.Tarren Mill.Väel"] = {
+				["activeSpecRole"] = "HEALER",
+				["lastUpdate"] = 1668871500,
+				["Specializations"] = {
+					0, -- [1]
+					0, -- [2]
+					[5] = 0,
+				},
+				["activeSpecIndex"] = 2,
+				["activeSpecName"] = "Preservation",
+				["Class"] = "EVOKER",
+			},
+			["Default.Frostmane.Öak"] = {
+				["activeSpecRole"] = "HEALER",
+				["lastUpdate"] = 1668250689,
+				["Specializations"] = {
+					[4] = 0,
+				},
+				["activeSpecIndex"] = 4,
+				["activeSpecName"] = "Restoration",
+				["Class"] = "DRUID",
+			},
+			["Default.Frostmane.Tidës"] = {
+				["activeSpecRole"] = "HEALER",
+				["lastUpdate"] = 1668424297,
+				["Specializations"] = {
+					0, -- [1]
+					[3] = 0,
+				},
+				["activeSpecIndex"] = 3,
+				["activeSpecName"] = "Restoration",
+				["Class"] = "SHAMAN",
+			},
+			["Default.Tarren Mill.Moolerlight"] = {
+				["activeSpecRole"] = "HEALER",
+				["lastUpdate"] = 1668546067,
+				["Specializations"] = {
+					0, -- [1]
+				},
+				["activeSpecIndex"] = 1,
+				["activeSpecName"] = "Holy",
+				["Class"] = "PALADIN",
+			},
+			["Default.Tarren Mill.Swervë"] = {
+				["activeSpecRole"] = "TANK",
+				["lastUpdate"] = 1668962105,
+				["Specializations"] = {
+					0, -- [1]
+					[3] = 0,
+				},
+				["activeSpecIndex"] = 3,
+				["activeSpecName"] = "Protection",
+				["Class"] = "WARRIOR",
+			},
+			["Default.Silvermoon.Klöse"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1666368897,
+				["Specializations"] = {
+					[3] = 7166,
+				},
+				["activeSpecIndex"] = 3,
+				["activeSpecName"] = "Unholy",
+				["Class"] = "DEATHKNIGHT",
+			},
 			["Default.Tarren Mill.Blighthöund"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1665013492,
+				["lastUpdate"] = 1668878534,
 				["Specializations"] = {
-					[3] = 5846,
+					[3] = 0,
 				},
 				["activeSpecIndex"] = 3,
 				["activeSpecName"] = "Destruction",
 				["Class"] = "WARLOCK",
 			},
+			["Default.Frostmane.Fabr"] = {
+				["activeSpecRole"] = "TANK",
+				["lastUpdate"] = 1668250536,
+				["Specializations"] = {
+					[3] = 0,
+				},
+				["activeSpecIndex"] = 3,
+				["activeSpecName"] = "Protection",
+				["Class"] = "WARRIOR",
+			},
+			["Default.Frostmane.Venedictia"] = {
+				["activeSpecRole"] = "HEALER",
+				["lastUpdate"] = 1668250741,
+				["Specializations"] = {
+					0, -- [1]
+					[3] = 0,
+				},
+				["activeSpecIndex"] = 1,
+				["activeSpecName"] = "Discipline",
+				["Class"] = "PRIEST",
+			},
 			["Default.Tarren Mill.Fëlblade"] = {
 				["activeSpecRole"] = "TANK",
-				["lastUpdate"] = 1665240903,
+				["lastUpdate"] = 1668285252,
 				["Specializations"] = {
 					6015, -- [1]
-					6906, -- [2]
+					0, -- [2]
 				},
 				["activeSpecIndex"] = 2,
 				["activeSpecName"] = "Vengeance",
 				["Class"] = "DEMONHUNTER",
 			},
+			["Default.Tarren Mill.Tribës"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1668874560,
+				["Specializations"] = {
+					[2] = 0,
+				},
+				["activeSpecIndex"] = 2,
+				["activeSpecName"] = "Enhancement",
+				["Class"] = "SHAMAN",
+			},
 			["Default.Tarren Mill.Dmthyltryp"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1663102276,
+				["lastUpdate"] = 1668012997,
 				["Specializations"] = {
-					[3] = 11637,
+					[3] = 0,
 				},
 				["activeSpecIndex"] = 3,
 				["activeSpecName"] = "Shadow",
@@ -301,9 +431,9 @@ DataStore_TalentsDB = {
 			},
 			["Default.Tarren Mill.Bäsics"] = {
 				["activeSpecRole"] = "TANK",
-				["lastUpdate"] = 1664137809,
+				["lastUpdate"] = 1668114268,
 				["Specializations"] = {
-					[2] = 11641,
+					[2] = 0,
 				},
 				["activeSpecIndex"] = 2,
 				["activeSpecName"] = "Protection",
@@ -311,49 +441,45 @@ DataStore_TalentsDB = {
 			},
 			["Default.Tarren Mill.Notrageqtz"] = {
 				["activeSpecRole"] = "HEALER",
-				["lastUpdate"] = 1663102465,
+				["lastUpdate"] = 1668015873,
 				["Specializations"] = {
-					[2] = 6574,
+					[2] = 0,
 				},
 				["activeSpecIndex"] = 2,
 				["activeSpecName"] = "Holy",
 				["Class"] = "PRIEST",
 			},
+			["Default.Tarren Mill.Ööunusedöö"] = {
+				["Class"] = "ROGUE",
+				["lastUpdate"] = 1668127771,
+			},
 			["Default.Tarren Mill.Løtüs"] = {
 				["activeSpecRole"] = "TANK",
-				["lastUpdate"] = 1664732946,
+				["lastUpdate"] = 1668438795,
 				["Specializations"] = {
-					6622, -- [1]
+					0, -- [1]
+					0, -- [2]
 				},
 				["activeSpecIndex"] = 1,
 				["activeSpecName"] = "Brewmaster",
 				["Class"] = "MONK",
 			},
-			["Default.Tarren Mill.Moolerlight"] = {
-				["activeSpecRole"] = "HEALER",
-				["lastUpdate"] = 1664059393,
-				["Specializations"] = {
-					506, -- [1]
-				},
-				["activeSpecIndex"] = 1,
-				["activeSpecName"] = "Holy",
-				["Class"] = "PALADIN",
-			},
 			["Default.Tarren Mill.Fëlstriker"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1663101983,
+				["lastUpdate"] = 1668287000,
 				["Specializations"] = {
 					6814, -- [1]
+					0, -- [2]
 				},
-				["activeSpecIndex"] = 1,
-				["activeSpecName"] = "Assassination",
+				["activeSpecIndex"] = 2,
+				["activeSpecName"] = "Outlaw",
 				["Class"] = "ROGUE",
 			},
 			["Default.Tarren Mill.Cëll"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1664572317,
+				["lastUpdate"] = 1668871801,
 				["Specializations"] = {
-					9654, -- [1]
+					0, -- [1]
 				},
 				["activeSpecIndex"] = 1,
 				["activeSpecName"] = "Elemental",
@@ -384,9 +510,9 @@ DataStore_TalentsDB = {
 					[283] = "2|187506|226|7|",
 				},
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1665266807,
+				["lastUpdate"] = 1667342464,
 				["Specializations"] = {
-					[2] = 7673,
+					[2] = 0,
 				},
 				["activeSpecIndex"] = 2,
 				["activeSpecName"] = "Enhancement",
@@ -402,58 +528,58 @@ DataStore_TalentsDB = {
 					[1849] = "0|0|0|1|",
 					[1853] = "0|0|0|0|",
 					[844] = "3|0|0|-1|",
-					[1203] = "2|0|0|-1|",
+					[1207] = "0|0|0|-1|",
 					[850] = "3|148|10|1|",
-					[866] = "1|0|0|-1|",
-					[1842] = "3|0|0|-1|",
-					[870] = "3|94|7|2|",
+					[834] = "3|0|0|-1|",
+					[1212] = "0|0|0|1|",
+					[994] = "3|0|0|1|",
 					[858] = "1|0|0|-1|",
 					[860] = "1|0|0|-1|",
 					[862] = "1|0|0|-1|",
 					[1838] = "3|0|0|-1|",
-					[1212] = "0|0|0|1|",
-					[994] = "3|0|0|1|",
+					[1842] = "3|0|0|-1|",
+					[1846] = "1|0|0|2|",
 					[1850] = "0|0|0|-1|",
 					[1854] = "0|0|0|-1|",
-					[1216] = "0|0|0|-1|",
-					[832] = "3|283|7|2|",
-					[1215] = "0|0|0|2|",
-					[1843] = "3|148|10|1|",
-					[837] = "3|0|0|-1|",
+					[864] = "3|0|0|-1|",
+					[1845] = "3|0|0|-1|",
+					[1204] = "0|0|0|-1|",
+					[835] = "1|0|0|0|",
+					[1847] = "3|95|10|0|",
 					[1010] = "3|98|10|0|",
-					[1848] = "3|0|0|-1|",
-					[1214] = "0|0|0|0|",
+					[995] = "3|93|11|2|",
+					[1844] = "1|0|0|-1|",
 					[827] = "3|0|0|-1|",
 					[829] = "1|0|0|2|",
 					[831] = "1|0|0|0|",
 					[1839] = "1|0|0|-1|",
-					[1213] = "0|0|0|2|",
-					[1847] = "3|95|10|0|",
+					[1843] = "3|148|10|1|",
+					[837] = "3|0|0|-1|",
 					[1851] = "0|0|0|-1|",
-					[1210] = "0|0|0|0|",
-					[1206] = "0|0|0|-1|",
+					[1840] = "3|94|7|2|",
+					[863] = "3|0|0|-1|",
 					[1208] = "0|0|0|-1|",
 					[1205] = "0|0|0|-1|",
 					[849] = "1|0|0|2|",
 					[851] = "1|95|10|0|",
-					[1209] = "0|0|0|1|",
-					[1211] = "0|0|0|2|",
 					[833] = "1|0|0|-1|",
+					[1211] = "0|0|0|2|",
+					[1209] = "0|0|0|1|",
 					[859] = "3|0|0|-1|",
 					[1202] = "0|0|0|-1|",
-					[863] = "3|0|0|-1|",
-					[1840] = "3|94|7|2|",
-					[1844] = "1|0|0|-1|",
-					[995] = "3|93|11|2|",
+					[1206] = "0|0|0|-1|",
+					[1210] = "0|0|0|0|",
+					[1214] = "0|0|0|0|",
+					[1848] = "3|0|0|-1|",
 					[1852] = "0|0|0|2|",
-					[835] = "1|0|0|0|",
-					[1204] = "0|0|0|-1|",
-					[1845] = "3|0|0|-1|",
-					[864] = "3|0|0|-1|",
-					[1846] = "1|0|0|2|",
+					[1213] = "0|0|0|2|",
+					[1215] = "0|0|0|2|",
+					[832] = "3|283|7|2|",
+					[1216] = "0|0|0|-1|",
+					[870] = "3|94|7|2|",
 					[1009] = "1|0|0|2|",
-					[834] = "3|0|0|-1|",
-					[1207] = "0|0|0|-1|",
+					[866] = "1|0|0|-1|",
+					[1203] = "2|0|0|-1|",
 				},
 				["activeSoulbindID"] = 2,
 			},
@@ -462,21 +588,32 @@ DataStore_TalentsDB = {
 }
 DataStore_TalentsRefDB = {
 	["profileKeys"] = {
+		["Luká - Frostmane"] = "Luká - Frostmane",
 		["Felbladë - Tarren Mill"] = "Felbladë - Tarren Mill",
 		["Gorë - Tarren Mill"] = "Gorë - Tarren Mill",
+		["Öak - Frostmane"] = "Öak - Frostmane",
+		["Fëlblade - Tarren Mill"] = "Fëlblade - Tarren Mill",
 		["Dmthyltryp - Tarren Mill"] = "Dmthyltryp - Tarren Mill",
-		["Yaöb - Tarren Mill"] = "Yaöb - Tarren Mill",
+		["Nervë - Silvermoon"] = "Nervë - Silvermoon",
+		["Väel - Tarren Mill"] = "Väel - Tarren Mill",
+		["Swervë - Tarren Mill"] = "Swervë - Tarren Mill",
+		["Blighthöund - Tarren Mill"] = "Blighthöund - Tarren Mill",
+		["Tidës - Frostmane"] = "Tidës - Frostmane",
+		["Venedictia - Frostmane"] = "Venedictia - Frostmane",
+		["Tribës - Tarren Mill"] = "Tribës - Tarren Mill",
+		["Fabr - Frostmane"] = "Fabr - Frostmane",
+		["Nothoit - Tarren Mill"] = "Nothoit - Tarren Mill",
 		["Nervë - Tarren Mill"] = "Nervë - Tarren Mill",
 		["Notrageqtz - Tarren Mill"] = "Notrageqtz - Tarren Mill",
-		["Nothoit - Tarren Mill"] = "Nothoit - Tarren Mill",
+		["Petrølbømb - Tarren Mill"] = "Petrølbømb - Tarren Mill",
 		["Bäsics - Tarren Mill"] = "Bäsics - Tarren Mill",
-		["Blighthöund - Tarren Mill"] = "Blighthöund - Tarren Mill",
+		["Løtüs - Tarren Mill"] = "Løtüs - Tarren Mill",
 		["Notkeuch - Tarren Mill"] = "Notkeuch - Tarren Mill",
 		["Fëlstriker - Tarren Mill"] = "Fëlstriker - Tarren Mill",
 		["Cëll - Tarren Mill"] = "Cëll - Tarren Mill",
-		["Løtüs - Tarren Mill"] = "Løtüs - Tarren Mill",
-		["Petrølbømb - Tarren Mill"] = "Petrølbømb - Tarren Mill",
-		["Fëlblade - Tarren Mill"] = "Fëlblade - Tarren Mill",
+		["Klöse - Silvermoon"] = "Klöse - Silvermoon",
+		["Ööunusedöö - Tarren Mill"] = "Ööunusedöö - Tarren Mill",
+		["Yaöb - Tarren Mill"] = "Yaöb - Tarren Mill",
 		["Moolerlight - Tarren Mill"] = "Moolerlight - Tarren Mill",
 		["Klöse - Tarren Mill"] = "Klöse - Tarren Mill",
 	},
@@ -486,29 +623,6 @@ DataStore_TalentsRefDB = {
 			["Specializations"] = {
 				{
 					["id"] = 250,
-					["talents"] = {
-						19165, -- [1]
-						19166, -- [2]
-						23454, -- [3]
-						19218, -- [4]
-						19219, -- [5]
-						19220, -- [6]
-						19221, -- [7]
-						22134, -- [8]
-						22135, -- [9]
-						22013, -- [10]
-						22014, -- [11]
-						22015, -- [12]
-						19227, -- [13]
-						19226, -- [14]
-						19228, -- [15]
-						19230, -- [16]
-						19231, -- [17]
-						19232, -- [18]
-						21207, -- [19]
-						21208, -- [20]
-						21209, -- [21]
-					},
 				}, -- [1]
 				{
 					["id"] = 251,
@@ -517,7 +631,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 252,
 				}, -- [3]
 			},
-			["Version"] = 45745,
+			["Version"] = 46702,
 		},
 		["WARRIOR"] = {
 			["Locale"] = "enUS",
@@ -527,96 +641,27 @@ DataStore_TalentsRefDB = {
 				}, -- [1]
 				{
 					["id"] = 72,
-					["talents"] = {
-						22632, -- [1]
-						22633, -- [2]
-						22491, -- [3]
-						19676, -- [4]
-						22625, -- [5]
-						23093, -- [6]
-						22379, -- [7]
-						22381, -- [8]
-						23372, -- [9]
-						23097, -- [10]
-						22627, -- [11]
-						22382, -- [12]
-						22383, -- [13]
-						22393, -- [14]
-						19140, -- [15]
-						22396, -- [16]
-						22398, -- [17]
-						22400, -- [18]
-						22405, -- [19]
-						22402, -- [20]
-						16037, -- [21]
-					},
 				}, -- [2]
 				{
 					["id"] = 73,
 				}, -- [3]
 			},
-			["Version"] = 45745,
+			["Version"] = 46702,
 		},
 		["SHAMAN"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
 				{
 					["id"] = 262,
-					["talents"] = {
-						22356, -- [1]
-						22357, -- [2]
-						22358, -- [3]
-						23108, -- [4]
-						23460, -- [5]
-						23190, -- [6]
-						23162, -- [7]
-						23163, -- [8]
-						23164, -- [9]
-						19271, -- [10]
-						19272, -- [11]
-						19273, -- [12]
-						22144, -- [13]
-						22172, -- [14]
-						21966, -- [15]
-						22145, -- [16]
-						19266, -- [17]
-						23111, -- [18]
-						21198, -- [19]
-						22153, -- [20]
-						21675, -- [21]
-					},
 				}, -- [1]
 				{
 					["id"] = 263,
-					["talents"] = {
-						22354, -- [1]
-						22355, -- [2]
-						22353, -- [3]
-						22636, -- [4]
-						23462, -- [5]
-						23109, -- [6]
-						23165, -- [7]
-						19260, -- [8]
-						23166, -- [9]
-						23089, -- [10]
-						23090, -- [11]
-						22171, -- [12]
-						22144, -- [13]
-						22149, -- [14]
-						21966, -- [15]
-						21973, -- [16]
-						22352, -- [17]
-						22351, -- [18]
-						21970, -- [19]
-						22977, -- [20]
-						21972, -- [21]
-					},
 				}, -- [2]
 				{
 					["id"] = 264,
 				}, -- [3]
 			},
-			["Version"] = 45745,
+			["Version"] = 46702,
 		},
 		["MAGE"] = {
 			["Locale"] = "enUS",
@@ -629,32 +674,9 @@ DataStore_TalentsRefDB = {
 				}, -- [2]
 				{
 					["id"] = 64,
-					["talents"] = {
-						22457, -- [1]
-						22460, -- [2]
-						22463, -- [3]
-						22442, -- [4]
-						22443, -- [5]
-						23073, -- [6]
-						22444, -- [7]
-						22445, -- [8]
-						22447, -- [9]
-						22452, -- [10]
-						22466, -- [11]
-						22469, -- [12]
-						22446, -- [13]
-						22448, -- [14]
-						22471, -- [15]
-						22454, -- [16]
-						23176, -- [17]
-						22473, -- [18]
-						21632, -- [19]
-						22309, -- [20]
-						21634, -- [21]
-					},
 				}, -- [3]
 			},
-			["Version"] = 45745,
+			["Version"] = 46702,
 		},
 		["PRIEST"] = {
 			["Locale"] = "enUS",
@@ -664,136 +686,65 @@ DataStore_TalentsRefDB = {
 				}, -- [1]
 				{
 					["id"] = 257,
-					["talents"] = {
-						22312, -- [1]
-						19753, -- [2]
-						19754, -- [3]
-						22325, -- [4]
-						22326, -- [5]
-						19758, -- [6]
-						22487, -- [7]
-						22095, -- [8]
-						22562, -- [9]
-						21750, -- [10]
-						21977, -- [11]
-						19761, -- [12]
-						19764, -- [13]
-						22327, -- [14]
-						21754, -- [15]
-						19767, -- [16]
-						19760, -- [17]
-						19763, -- [18]
-						21636, -- [19]
-						21644, -- [20]
-						23145, -- [21]
-					},
 				}, -- [2]
 				{
 					["id"] = 258,
-					["talents"] = {
-						22328, -- [1]
-						22136, -- [2]
-						22314, -- [3]
-						22315, -- [4]
-						23374, -- [5]
-						21976, -- [6]
-						23125, -- [7]
-						23126, -- [8]
-						23127, -- [9]
-						23137, -- [10]
-						23375, -- [11]
-						21752, -- [12]
-						22310, -- [13]
-						22311, -- [14]
-						21755, -- [15]
-						21718, -- [16]
-						21719, -- [17]
-						21720, -- [18]
-						21637, -- [19]
-						21978, -- [20]
-						21979, -- [21]
-					},
 				}, -- [3]
 			},
-			["Version"] = 45338,
+			["Version"] = 46597,
 		},
-		["PALADIN"] = {
+		["HUNTER"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
 				{
-					["id"] = 65,
+					["id"] = 253,
 					["talents"] = {
-						17565, -- [1]
-						17567, -- [2]
-						17569, -- [3]
-						22176, -- [4]
-						17575, -- [5]
-						17577, -- [6]
-						22179, -- [7]
-						22180, -- [8]
-						21811, -- [9]
-						22433, -- [10]
-						22434, -- [11]
-						17593, -- [12]
-						17597, -- [13]
-						17599, -- [14]
-						17601, -- [15]
+						22291, -- [1]
+						22280, -- [2]
+						22282, -- [3]
+						22500, -- [4]
+						22266, -- [5]
+						22290, -- [6]
+						19347, -- [7]
+						19348, -- [8]
+						23100, -- [9]
+						22441, -- [10]
+						22347, -- [11]
+						22269, -- [12]
+						22268, -- [13]
+						22276, -- [14]
+						22499, -- [15]
+						19357, -- [16]
+						22002, -- [17]
+						23044, -- [18]
+						22273, -- [19]
+						21986, -- [20]
+						22295, -- [21]
 					},
 				}, -- [1]
 				{
-					["id"] = 66,
-					["talents"] = {
-						22428, -- [1]
-						22558, -- [2]
-						23469, -- [3]
-						22431, -- [4]
-						22604, -- [5]
-						23468, -- [6]
-						22179, -- [7]
-						22180, -- [8]
-						21811, -- [9]
-						22433, -- [10]
-						22434, -- [11]
-						22435, -- [12]
-						17597, -- [13]
-						17599, -- [14]
-						17601, -- [15]
-						22189, -- [16]
-						22438, -- [17]
-						23087, -- [18]
-						23457, -- [19]
-						21202, -- [20]
-						22645, -- [21]
-					},
+					["id"] = 254,
 				}, -- [2]
 				{
-					["id"] = 70,
-					["talents"] = {
-						22590, -- [1]
-						22557, -- [2]
-						23467, -- [3]
-						22319, -- [4]
-						22592, -- [5]
-						23466, -- [6]
-						22179, -- [7]
-						22180, -- [8]
-						21811, -- [9]
-						22433, -- [10]
-						22434, -- [11]
-						22183, -- [12]
-						17597, -- [13]
-						17599, -- [14]
-						17601, -- [15]
-						23167, -- [16]
-						22483, -- [17]
-						23086, -- [18]
-						23456, -- [19]
-						22215, -- [20]
-						22634, -- [21]
-					},
+					["id"] = 255,
 				}, -- [3]
 			},
-			["Version"] = 45745,
+			["Version"] = 46597,
+		},
+		["MONK"] = {
+			["Locale"] = "enUS",
+			["Specializations"] = {
+				{
+					["id"] = 268,
+				}, -- [1]
+				{
+					["id"] = 270,
+				}, -- [2]
+				{
+					["id"] = 269,
+				}, -- [3]
+			},
+			["Version"] = 46597,
 		},
 		["WARLOCK"] = {
 			["Locale"] = "enUS",
@@ -806,32 +757,9 @@ DataStore_TalentsRefDB = {
 				}, -- [2]
 				{
 					["id"] = 267,
-					["talents"] = {
-						22038, -- [1]
-						22090, -- [2]
-						22040, -- [3]
-						23148, -- [4]
-						21695, -- [5]
-						23157, -- [6]
-						19280, -- [7]
-						19285, -- [8]
-						19286, -- [9]
-						22480, -- [10]
-						22043, -- [11]
-						23143, -- [12]
-						22047, -- [13]
-						19291, -- [14]
-						23465, -- [15]
-						23155, -- [16]
-						23156, -- [17]
-						19295, -- [18]
-						19284, -- [19]
-						23144, -- [20]
-						23092, -- [21]
-					},
 				}, -- [3]
 			},
-			["Version"] = 45745,
+			["Version"] = 46702,
 		},
 		["DEMONHUNTER"] = {
 			["Locale"] = "enUS",
@@ -864,32 +792,9 @@ DataStore_TalentsRefDB = {
 				}, -- [1]
 				{
 					["id"] = 581,
-					["talents"] = {
-						22502, -- [1]
-						22503, -- [2]
-						22504, -- [3]
-						22505, -- [4]
-						22766, -- [5]
-						22507, -- [6]
-						22324, -- [7]
-						22541, -- [8]
-						22540, -- [9]
-						22508, -- [10]
-						22509, -- [11]
-						22770, -- [12]
-						22546, -- [13]
-						22510, -- [14]
-						22511, -- [15]
-						22512, -- [16]
-						22513, -- [17]
-						22768, -- [18]
-						22543, -- [19]
-						23464, -- [20]
-						21902, -- [21]
-					},
 				}, -- [2]
 			},
-			["Version"] = 45745,
+			["Version"] = 46597,
 		},
 		["ROGUE"] = {
 			["Locale"] = "enUS",
@@ -927,7 +832,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 261,
 				}, -- [3]
 			},
-			["Version"] = 45338,
+			["Version"] = 46597,
 		},
 		["DRUID"] = {
 			["Locale"] = "enUS",
@@ -940,134 +845,39 @@ DataStore_TalentsRefDB = {
 				}, -- [2]
 				{
 					["id"] = 104,
-					["talents"] = {
-						22419, -- [1]
-						22418, -- [2]
-						22420, -- [3]
-						19283, -- [4]
-						18570, -- [5]
-						18571, -- [6]
-						22163, -- [7]
-						22156, -- [8]
-						22159, -- [9]
-						21778, -- [10]
-						18576, -- [11]
-						18577, -- [12]
-						21709, -- [13]
-						21707, -- [14]
-						22388, -- [15]
-						22423, -- [16]
-						21713, -- [17]
-						22390, -- [18]
-						22426, -- [19]
-						22427, -- [20]
-						22425, -- [21]
-					},
 				}, -- [3]
 				{
 					["id"] = 105,
 				}, -- [4]
 			},
-			["Version"] = 45745,
+			["Version"] = 46597,
 		},
-		["MONK"] = {
+		["EVOKER"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
 				{
-					["id"] = 268,
-					["talents"] = {
-						23106, -- [1]
-						19820, -- [2]
-						20185, -- [3]
-						19304, -- [4]
-						19818, -- [5]
-						19302, -- [6]
-						22099, -- [7]
-						22097, -- [8]
-						19992, -- [9]
-						19993, -- [10]
-						19994, -- [11]
-						19995, -- [12]
-						20174, -- [13]
-						23363, -- [14]
-						20175, -- [15]
-						19819, -- [16]
-						20184, -- [17]
-						22103, -- [18]
-						22106, -- [19]
-						22104, -- [20]
-						22108, -- [21]
-					},
+					["id"] = 1467,
 				}, -- [1]
 				{
-					["id"] = 270,
+					["id"] = 1468,
 				}, -- [2]
-				{
-					["id"] = 269,
-				}, -- [3]
 			},
-			["Version"] = 45745,
+			["Version"] = 46702,
 		},
-		["HUNTER"] = {
+		["PALADIN"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
 				{
-					["id"] = 253,
-					["talents"] = {
-						22291, -- [1]
-						22280, -- [2]
-						22282, -- [3]
-						22500, -- [4]
-						22266, -- [5]
-						22290, -- [6]
-						19347, -- [7]
-						19348, -- [8]
-						23100, -- [9]
-						22441, -- [10]
-						22347, -- [11]
-						22269, -- [12]
-						22268, -- [13]
-						22276, -- [14]
-						22499, -- [15]
-						19357, -- [16]
-						22002, -- [17]
-						23044, -- [18]
-						22273, -- [19]
-						21986, -- [20]
-						22295, -- [21]
-					},
+					["id"] = 65,
 				}, -- [1]
 				{
-					["id"] = 254,
+					["id"] = 66,
 				}, -- [2]
 				{
-					["id"] = 255,
-					["talents"] = {
-						22275, -- [1]
-						22283, -- [2]
-						22296, -- [3]
-						21997, -- [4]
-						22769, -- [5]
-						22297, -- [6]
-						19347, -- [7]
-						19348, -- [8]
-						23100, -- [9]
-						22277, -- [10]
-						19361, -- [11]
-						22299, -- [12]
-						22268, -- [13]
-						22276, -- [14]
-						22499, -- [15]
-						22300, -- [16]
-						22278, -- [17]
-						22271, -- [18]
-						22272, -- [19]
-						22301, -- [20]
-						23105, -- [21]
-					},
+					["id"] = 70,
 				}, -- [3]
 			},
-			["Version"] = 45745,
+			["Version"] = 46702,
 		},
 	},
 }

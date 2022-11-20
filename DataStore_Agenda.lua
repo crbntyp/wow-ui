@@ -1,21 +1,32 @@
 
 DataStore_AgendaDB = {
 	["profileKeys"] = {
+		["Luká - Frostmane"] = "Luká - Frostmane",
 		["Felbladë - Tarren Mill"] = "Felbladë - Tarren Mill",
 		["Gorë - Tarren Mill"] = "Gorë - Tarren Mill",
+		["Öak - Frostmane"] = "Öak - Frostmane",
+		["Fëlblade - Tarren Mill"] = "Fëlblade - Tarren Mill",
 		["Dmthyltryp - Tarren Mill"] = "Dmthyltryp - Tarren Mill",
+		["Swervë - Tarren Mill"] = "Swervë - Tarren Mill",
+		["Väel - Tarren Mill"] = "Väel - Tarren Mill",
 		["Yaöb - Tarren Mill"] = "Yaöb - Tarren Mill",
-		["Nervë - Tarren Mill"] = "Nervë - Tarren Mill",
+		["Ööunusedöö - Tarren Mill"] = "Ööunusedöö - Tarren Mill",
+		["Tidës - Frostmane"] = "Tidës - Frostmane",
+		["Venedictia - Frostmane"] = "Venedictia - Frostmane",
+		["Nervë - Silvermoon"] = "Nervë - Silvermoon",
+		["Fabr - Frostmane"] = "Fabr - Frostmane",
+		["Petrølbømb - Tarren Mill"] = "Petrølbømb - Tarren Mill",
+		["Blighthöund - Tarren Mill"] = "Blighthöund - Tarren Mill",
 		["Notrageqtz - Tarren Mill"] = "Notrageqtz - Tarren Mill",
 		["Nothoit - Tarren Mill"] = "Nothoit - Tarren Mill",
 		["Bäsics - Tarren Mill"] = "Bäsics - Tarren Mill",
-		["Blighthöund - Tarren Mill"] = "Blighthöund - Tarren Mill",
+		["Cëll - Tarren Mill"] = "Cëll - Tarren Mill",
 		["Fëlstriker - Tarren Mill"] = "Fëlstriker - Tarren Mill",
 		["Notkeuch - Tarren Mill"] = "Notkeuch - Tarren Mill",
-		["Fëlblade - Tarren Mill"] = "Fëlblade - Tarren Mill",
-		["Petrølbømb - Tarren Mill"] = "Petrølbømb - Tarren Mill",
 		["Løtüs - Tarren Mill"] = "Løtüs - Tarren Mill",
-		["Cëll - Tarren Mill"] = "Cëll - Tarren Mill",
+		["Klöse - Silvermoon"] = "Klöse - Silvermoon",
+		["Nervë - Tarren Mill"] = "Nervë - Tarren Mill",
+		["Tribës - Tarren Mill"] = "Tribës - Tarren Mill",
 		["Moolerlight - Tarren Mill"] = "Moolerlight - Tarren Mill",
 		["Klöse - Tarren Mill"] = "Klöse - Tarren Mill",
 	},
@@ -23,93 +34,108 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 3,
-			["NextWeeklyReset"] = "2022-10-12",
+			["NextWeeklyReset"] = "2022-11-23",
 		},
 		["Characters"] = {
 			["Default.Tarren Mill.Klöse"] = {
-				["DungeonIDs"] = {
-					["Zul'Gurub Heroic|1983404788"] = "62418|1665236381|0|0",
-				},
-				["lastUpdate"] = 1665236381,
+				["lastUpdate"] = 1668861763,
 			},
 			["Default.Tarren Mill.Yaöb"] = {
-				["DungeonIDs"] = {
-					["Halls of Atonement Mythic|390097518"] = "289828|1665268172|0|0",
-					["Sanguine Depths Mythic|390098110"] = "289828|1665268172|0|0",
-					["The Necrotic Wake Mythic|1105692325"] = "289828|1665268172|0|0",
-					["Mists of Tirna Scithe Mythic|341399400"] = "289828|1665268172|0|0",
-				},
-				["lastUpdate"] = 1665268172,
+				["lastUpdate"] = 1668544588,
 			},
 			["Default.Tarren Mill.Nothoit"] = {
-				["lastUpdate"] = 1663619464,
+				["lastUpdate"] = 1668801774,
 			},
 			["Default.Tarren Mill.Petrølbømb"] = {
-				["lastUpdate"] = 1665067684,
+				["lastUpdate"] = 1668854209,
 			},
 			["Default.Tarren Mill.Gorë"] = {
-				["lastUpdate"] = 1664926795,
+				["lastUpdate"] = 1668439860,
+			},
+			["Default.Silvermoon.Nervë"] = {
+				["lastUpdate"] = 1667406630,
 			},
 			["Default.Tarren Mill.Nervë"] = {
-				["DungeonIDs"] = {
-					["Ulduar Normal|1983434560"] = "317233|1665240767|0|1",
-				},
-				["lastUpdate"] = 1665240767,
+				["lastUpdate"] = 1668889412,
+			},
+			["Default.Frostmane.Luká"] = {
+				["lastUpdate"] = 1668423795,
 			},
 			["Default.Tarren Mill.Felbladë"] = {
-				["lastUpdate"] = 1664629726,
+				["lastUpdate"] = 1667411393,
 			},
-			["Default.Tarren Mill.Blighthöund"] = {
-				["lastUpdate"] = 1665013495,
+			["Default.Tarren Mill.Väel"] = {
+				["lastUpdate"] = 1668871509,
 			},
-			["Default.Tarren Mill.Fëlblade"] = {
-				["lastUpdate"] = 1665240906,
+			["Default.Frostmane.Öak"] = {
+				["lastUpdate"] = 1668250697,
 			},
-			["Default.Tarren Mill.Dmthyltryp"] = {
-				["lastUpdate"] = 1663102278,
-			},
-			["Default.Tarren Mill.Bäsics"] = {
-				["lastUpdate"] = 1664137810,
-			},
-			["Default.Tarren Mill.Notrageqtz"] = {
-				["lastUpdate"] = 1663102468,
-			},
-			["Default.Tarren Mill.Moolerlight"] = {
-				["lastUpdate"] = 1664059394,
+			["Default.Frostmane.Tidës"] = {
+				["lastUpdate"] = 1668424300,
 			},
 			["Default.Tarren Mill.Løtüs"] = {
-				["lastUpdate"] = 1664732947,
+				["lastUpdate"] = 1668438805,
 			},
-			["Default.Tarren Mill.Fëlstriker"] = {
-				["lastUpdate"] = 1663101983,
+			["Default.Tarren Mill.Ööunusedöö"] = {
+				["lastUpdate"] = 1668127773,
 			},
-			["Default.Tarren Mill.Cëll"] = {
-				["lastUpdate"] = 1664572321,
+			["Default.Silvermoon.Klöse"] = {
+				["lastUpdate"] = 1666368898,
 			},
-			["Default.Tarren Mill.Notkeuch"] = {
+			["Default.Frostmane.Fabr"] = {
+				["lastUpdate"] = 1668250539,
+			},
+			["Default.Frostmane.Venedictia"] = {
+				["lastUpdate"] = 1668250722,
+			},
+			["Default.Tarren Mill.Blighthöund"] = {
+				["lastUpdate"] = 1668878538,
+			},
+			["Default.Tarren Mill.Tribës"] = {
 				["DungeonIDs"] = {
-					["Castle Nathria Looking For Raid|1983078557"] = "291179|1665266821|0|1",
-					["The Necrotic Wake Mythic|558289513"] = "291179|1665266821|0|0",
-					["Halls of Atonement Mythic|409892647"] = "291179|1665266821|0|0",
-					["Sanguine Depths Mythic|1982326153"] = "291179|1665266821|0|0",
-					["Tomb of Sargeras Mythic|1983652711"] = "291179|1665266821|0|1",
+					["Antorus, the Burning Throne Mythic|2004584264"] = "301428|1668874572|0|1",
 				},
-				["lastUpdate"] = 1665266821,
+				["lastUpdate"] = 1668874572,
+			},
+			["Default.Tarren Mill.Fëlblade"] = {
+				["lastUpdate"] = 1668285253,
+			},
+			["Default.Tarren Mill.Dmthyltryp"] = {
+				["lastUpdate"] = 1668013000,
+			},
+			["Default.Tarren Mill.Bäsics"] = {
+				["lastUpdate"] = 1668114280,
+			},
+			["Default.Tarren Mill.Notrageqtz"] = {
+				["lastUpdate"] = 1668015875,
+			},
+			["Default.Tarren Mill.Swervë"] = {
+				["DungeonIDs"] = {
+					["Theater of Pain Mythic|2005208524"] = "196711|1668979288|0|0",
+					["Castle Nathria Looking For Raid|2005041302"] = "196711|1668979288|0|1",
+					["Halls of Atonement Mythic|1108555704"] = "196711|1668979288|0|0",
+					["The Necrotic Wake Mythic|2005192687"] = "196711|1668979288|0|0",
+					["Mists of Tirna Scithe Mythic|391822748"] = "196711|1668979288|0|0",
+				},
+				["lastUpdate"] = 1668979288,
 				["LFGDungeons"] = {
+					["2337.Count"] = 3,
 					["2337.Huntsman Altimor"] = true,
 					["2337.Hungering Destroyer"] = true,
-					["2339.Shriekwing"] = true,
-					["2337.Count"] = 3,
 					["2337.Lady Inerva Darkvein"] = true,
-					["2339.Stone Legion Generals"] = true,
-					["2338.The Council of Blood"] = true,
-					["2338.Count"] = 2,
-					["2340.Count"] = 1,
-					["2339.Sludgefist"] = true,
-					["2339.Count"] = 3,
-					["2338.Artificer Xy'mox"] = true,
-					["2340.Sire Denathrius"] = true,
 				},
+			},
+			["Default.Tarren Mill.Moolerlight"] = {
+				["lastUpdate"] = 1668546079,
+			},
+			["Default.Tarren Mill.Fëlstriker"] = {
+				["lastUpdate"] = 1668287002,
+			},
+			["Default.Tarren Mill.Cëll"] = {
+				["lastUpdate"] = 1668871883,
+			},
+			["Default.Tarren Mill.Notkeuch"] = {
+				["lastUpdate"] = 1667342468,
 			},
 		},
 	},

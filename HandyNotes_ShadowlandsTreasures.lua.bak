@@ -1,35 +1,68 @@
 
 HandyNotes_ShadowlandsTreasuresDB = {
 	["profileKeys"] = {
+		["Luká - Frostmane"] = "Luká - Frostmane",
 		["Felbladë - Tarren Mill"] = "Felbladë - Tarren Mill",
 		["Fëlblade - Tarren Mill"] = "Fëlblade - Tarren Mill",
+		["Öak - Frostmane"] = "Öak - Frostmane",
+		["Cëll - Tarren Mill"] = "Cëll - Tarren Mill",
+		["Tribës - Tarren Mill"] = "Tribës - Tarren Mill",
 		["Dmthyltryp - Tarren Mill"] = "Dmthyltryp - Tarren Mill",
-		["Säuce - Tarren Mill"] = "Säuce - Tarren Mill",
 		["Yaöb - Tarren Mill"] = "Yaöb - Tarren Mill",
+		["Väel - Tarren Mill"] = "Väel - Tarren Mill",
+		["Säuce - Tarren Mill"] = "Säuce - Tarren Mill",
+		["Ööunusedöö - Tarren Mill"] = "Ööunusedöö - Tarren Mill",
+		["Tidës - Frostmane"] = "Tidës - Frostmane",
+		["Venedictia - Frostmane"] = "Venedictia - Frostmane",
+		["Nervë - Silvermoon"] = "Nervë - Silvermoon",
+		["Fabr - Frostmane"] = "Fabr - Frostmane",
+		["Bäsics - Tarren Mill"] = "Bäsics - Tarren Mill",
 		["Nervë - Tarren Mill"] = "Nervë - Tarren Mill",
 		["Notrageqtz - Tarren Mill"] = "Notrageqtz - Tarren Mill",
 		["Nothoit - Tarren Mill"] = "Nothoit - Tarren Mill",
-		["Bäsics - Tarren Mill"] = "Bäsics - Tarren Mill",
-		["Cëll - Tarren Mill"] = "Cëll - Tarren Mill",
-		["Petrølbømb - Tarren Mill"] = "Petrølbømb - Tarren Mill",
+		["Løtüs - Tarren Mill"] = "Løtüs - Tarren Mill",
+		["Gorë - Tarren Mill"] = "Gorë - Tarren Mill",
 		["Notkeuch - Tarren Mill"] = "Notkeuch - Tarren Mill",
 		["Fëlstriker - Tarren Mill"] = "Fëlstriker - Tarren Mill",
-		["Løtüs - Tarren Mill"] = "Løtüs - Tarren Mill",
+		["Petrølbømb - Tarren Mill"] = "Petrølbømb - Tarren Mill",
+		["Klöse - Silvermoon"] = "Klöse - Silvermoon",
 		["Blighthöund - Tarren Mill"] = "Blighthöund - Tarren Mill",
-		["Gorë - Tarren Mill"] = "Gorë - Tarren Mill",
+		["Swervë - Tarren Mill"] = "Swervë - Tarren Mill",
 		["Moolerlight - Tarren Mill"] = "Moolerlight - Tarren Mill",
 		["Klöse - Tarren Mill"] = "Klöse - Tarren Mill",
 	},
 	["profiles"] = {
+		["Luká - Frostmane"] = {
+		},
 		["Felbladë - Tarren Mill"] = {
 		},
 		["Fëlblade - Tarren Mill"] = {
 		},
+		["Öak - Frostmane"] = {
+		},
+		["Cëll - Tarren Mill"] = {
+		},
+		["Tribës - Tarren Mill"] = {
+		},
 		["Dmthyltryp - Tarren Mill"] = {
+		},
+		["Yaöb - Tarren Mill"] = {
+		},
+		["Väel - Tarren Mill"] = {
 		},
 		["Säuce - Tarren Mill"] = {
 		},
-		["Yaöb - Tarren Mill"] = {
+		["Ööunusedöö - Tarren Mill"] = {
+		},
+		["Tidës - Frostmane"] = {
+		},
+		["Venedictia - Frostmane"] = {
+		},
+		["Nervë - Silvermoon"] = {
+		},
+		["Fabr - Frostmane"] = {
+		},
+		["Bäsics - Tarren Mill"] = {
 		},
 		["Nervë - Tarren Mill"] = {
 		},
@@ -37,21 +70,21 @@ HandyNotes_ShadowlandsTreasuresDB = {
 		},
 		["Nothoit - Tarren Mill"] = {
 		},
-		["Bäsics - Tarren Mill"] = {
+		["Løtüs - Tarren Mill"] = {
 		},
-		["Cëll - Tarren Mill"] = {
-		},
-		["Petrølbømb - Tarren Mill"] = {
+		["Gorë - Tarren Mill"] = {
 		},
 		["Notkeuch - Tarren Mill"] = {
 		},
 		["Fëlstriker - Tarren Mill"] = {
 		},
-		["Løtüs - Tarren Mill"] = {
+		["Petrølbømb - Tarren Mill"] = {
+		},
+		["Klöse - Silvermoon"] = {
 		},
 		["Blighthöund - Tarren Mill"] = {
 		},
-		["Gorë - Tarren Mill"] = {
+		["Swervë - Tarren Mill"] = {
 		},
 		["Moolerlight - Tarren Mill"] = {
 		},

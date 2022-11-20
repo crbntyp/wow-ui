@@ -1,82 +1,177 @@
 
 DataStore_PetsDB = {
 	["profileKeys"] = {
+		["Luká - Frostmane"] = "Luká - Frostmane",
 		["Felbladë - Tarren Mill"] = "Felbladë - Tarren Mill",
 		["Gorë - Tarren Mill"] = "Gorë - Tarren Mill",
+		["Öak - Frostmane"] = "Öak - Frostmane",
+		["Fëlblade - Tarren Mill"] = "Fëlblade - Tarren Mill",
 		["Dmthyltryp - Tarren Mill"] = "Dmthyltryp - Tarren Mill",
+		["Swervë - Tarren Mill"] = "Swervë - Tarren Mill",
+		["Väel - Tarren Mill"] = "Väel - Tarren Mill",
 		["Yaöb - Tarren Mill"] = "Yaöb - Tarren Mill",
-		["Nervë - Tarren Mill"] = "Nervë - Tarren Mill",
+		["Ööunusedöö - Tarren Mill"] = "Ööunusedöö - Tarren Mill",
+		["Tidës - Frostmane"] = "Tidës - Frostmane",
+		["Venedictia - Frostmane"] = "Venedictia - Frostmane",
+		["Nervë - Silvermoon"] = "Nervë - Silvermoon",
+		["Fabr - Frostmane"] = "Fabr - Frostmane",
+		["Petrølbømb - Tarren Mill"] = "Petrølbømb - Tarren Mill",
+		["Blighthöund - Tarren Mill"] = "Blighthöund - Tarren Mill",
 		["Notrageqtz - Tarren Mill"] = "Notrageqtz - Tarren Mill",
 		["Nothoit - Tarren Mill"] = "Nothoit - Tarren Mill",
 		["Bäsics - Tarren Mill"] = "Bäsics - Tarren Mill",
-		["Blighthöund - Tarren Mill"] = "Blighthöund - Tarren Mill",
+		["Cëll - Tarren Mill"] = "Cëll - Tarren Mill",
 		["Fëlstriker - Tarren Mill"] = "Fëlstriker - Tarren Mill",
 		["Notkeuch - Tarren Mill"] = "Notkeuch - Tarren Mill",
-		["Fëlblade - Tarren Mill"] = "Fëlblade - Tarren Mill",
-		["Petrølbømb - Tarren Mill"] = "Petrølbømb - Tarren Mill",
 		["Løtüs - Tarren Mill"] = "Løtüs - Tarren Mill",
-		["Cëll - Tarren Mill"] = "Cëll - Tarren Mill",
+		["Klöse - Silvermoon"] = "Klöse - Silvermoon",
+		["Nervë - Tarren Mill"] = "Nervë - Tarren Mill",
+		["Tribës - Tarren Mill"] = "Tribës - Tarren Mill",
 		["Moolerlight - Tarren Mill"] = "Moolerlight - Tarren Mill",
 		["Klöse - Tarren Mill"] = "Klöse - Tarren Mill",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Tarren Mill.Klöse"] = {
-				["lastUpdate"] = 1665236374,
+				["lastUpdate"] = 1668861760,
 			},
 			["Default.Tarren Mill.Yaöb"] = {
-				["lastUpdate"] = 1665268170,
+				["lastUpdate"] = 1668544585,
 			},
 			["Default.Tarren Mill.Nothoit"] = {
-				["lastUpdate"] = 1663619463,
+				["lastUpdate"] = 1668801771,
 			},
 			["Default.Tarren Mill.Petrølbømb"] = {
-				["lastUpdate"] = 1665067683,
+				["lastUpdate"] = 1668854174,
 			},
 			["Default.Tarren Mill.Gorë"] = {
-				["lastUpdate"] = 1664926761,
+				["lastUpdate"] = 1668439855,
+			},
+			["Default.Silvermoon.Nervë"] = {
+				["lastUpdate"] = 1667406612,
 			},
 			["Default.Tarren Mill.Nervë"] = {
-				["lastUpdate"] = 1665240689,
+				["lastUpdate"] = 1668889410,
+			},
+			["Default.Frostmane.Luká"] = {
+				["lastUpdate"] = 1668423793,
 			},
 			["Default.Tarren Mill.Felbladë"] = {
-				["lastUpdate"] = 1664629724,
+				["lastUpdate"] = 1667411391,
 			},
-			["Default.Tarren Mill.Blighthöund"] = {
-				["lastUpdate"] = 1665013493,
+			["Default.Tarren Mill.Väel"] = {
+				["lastUpdate"] = 1668871502,
 			},
-			["Default.Tarren Mill.Fëlblade"] = {
-				["lastUpdate"] = 1665240905,
+			["Default.Frostmane.Öak"] = {
+				["lastUpdate"] = 1668250691,
+				["CRITTER"] = {
+					149787, -- [1]
+					78683, -- [2]
+					10709, -- [3]
+					69452, -- [4]
+					135259, -- [5]
+					10695, -- [6]
+					62508, -- [7]
+					95787, -- [8]
+					75906, -- [9]
+					124660, -- [10]
+					149792, -- [11]
+					138825, -- [12]
+				},
 			},
-			["Default.Tarren Mill.Dmthyltryp"] = {
-				["lastUpdate"] = 1663102277,
-			},
-			["Default.Tarren Mill.Bäsics"] = {
-				["lastUpdate"] = 1664137809,
-			},
-			["Default.Tarren Mill.Notrageqtz"] = {
-				["lastUpdate"] = 1663102467,
-			},
-			["Default.Tarren Mill.Moolerlight"] = {
-				["lastUpdate"] = 1664059393,
+			["Default.Frostmane.Tidës"] = {
+				["lastUpdate"] = 1668424297,
 			},
 			["Default.Tarren Mill.Løtüs"] = {
-				["lastUpdate"] = 1664732946,
+				["lastUpdate"] = 1668438795,
+			},
+			["Default.Tarren Mill.Ööunusedöö"] = {
+				["lastUpdate"] = 1668127774,
+			},
+			["Default.Silvermoon.Klöse"] = {
+				["lastUpdate"] = 1666368897,
+			},
+			["Default.Frostmane.Fabr"] = {
+				["lastUpdate"] = 1668250536,
+			},
+			["Default.Frostmane.Venedictia"] = {
+				["lastUpdate"] = 1668250720,
+				["CRITTER"] = {
+					10711, -- [1]
+					69452, -- [2]
+					75906, -- [3]
+					95787, -- [4]
+					124660, -- [5]
+					149792, -- [6]
+					149787, -- [7]
+				},
+			},
+			["Default.Tarren Mill.Blighthöund"] = {
+				["lastUpdate"] = 1668878535,
+			},
+			["Default.Tarren Mill.Tribës"] = {
+				["lastUpdate"] = 1668874560,
+			},
+			["Default.Tarren Mill.Fëlblade"] = {
+				["lastUpdate"] = 1668285252,
+			},
+			["Default.Tarren Mill.Dmthyltryp"] = {
+				["lastUpdate"] = 1668012998,
+			},
+			["Default.Tarren Mill.Bäsics"] = {
+				["lastUpdate"] = 1668114268,
+			},
+			["Default.Tarren Mill.Notrageqtz"] = {
+				["lastUpdate"] = 1668015873,
+			},
+			["Default.Tarren Mill.Swervë"] = {
+				["lastUpdate"] = 1668979287,
+			},
+			["Default.Tarren Mill.Moolerlight"] = {
+				["lastUpdate"] = 1668546067,
 			},
 			["Default.Tarren Mill.Fëlstriker"] = {
-				["lastUpdate"] = 1663101983,
+				["lastUpdate"] = 1668287000,
 			},
 			["Default.Tarren Mill.Cëll"] = {
-				["lastUpdate"] = 1664572320,
+				["lastUpdate"] = 1668873614,
+				["CRITTER"] = {
+					375713, -- [1]
+				},
 			},
 			["Default.Tarren Mill.Notkeuch"] = {
-				["lastUpdate"] = 1665266807,
+				["lastUpdate"] = 1667342466,
 			},
 		},
 		["Reference"] = {
 			["Spells"] = {
-				[253813] = 127859,
+				[135259] = 68664,
+				[124660] = 63832,
 				[230073] = 115784,
+				[149787] = 74402,
+				[341302] = 173994,
+				[138825] = 70083,
+				[67417] = 35399,
+				[10695] = 7543,
+				[253813] = 127859,
+				[10711] = 7560,
+				[95787] = 51600,
+				[149792] = 74405,
+				[135257] = 68654,
+				[135261] = 68666,
+				[100576] = 54027,
+				[375713] = 191387,
+				[353525] = 179166,
+				[69452] = 36871,
+				[10683] = 7387,
+				[75906] = 40703,
+				[155838] = 77221,
+				[62508] = 33194,
+				[65358] = 34364,
+				[67420] = 35394,
+				[42609] = 23909,
+				[10709] = 14421,
+				[78683] = 42177,
 			},
 		},
 	},

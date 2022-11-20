@@ -1,104 +1,168 @@
 
 DataStoreDB = {
 	["profileKeys"] = {
+		["Luká - Frostmane"] = "Luká - Frostmane",
 		["Felbladë - Tarren Mill"] = "Felbladë - Tarren Mill",
 		["Gorë - Tarren Mill"] = "Gorë - Tarren Mill",
+		["Öak - Frostmane"] = "Öak - Frostmane",
+		["Fëlblade - Tarren Mill"] = "Fëlblade - Tarren Mill",
 		["Dmthyltryp - Tarren Mill"] = "Dmthyltryp - Tarren Mill",
-		["Yaöb - Tarren Mill"] = "Yaöb - Tarren Mill",
+		["Nervë - Silvermoon"] = "Nervë - Silvermoon",
+		["Väel - Tarren Mill"] = "Väel - Tarren Mill",
+		["Swervë - Tarren Mill"] = "Swervë - Tarren Mill",
+		["Blighthöund - Tarren Mill"] = "Blighthöund - Tarren Mill",
+		["Tidës - Frostmane"] = "Tidës - Frostmane",
+		["Venedictia - Frostmane"] = "Venedictia - Frostmane",
+		["Tribës - Tarren Mill"] = "Tribës - Tarren Mill",
+		["Fabr - Frostmane"] = "Fabr - Frostmane",
+		["Nothoit - Tarren Mill"] = "Nothoit - Tarren Mill",
 		["Nervë - Tarren Mill"] = "Nervë - Tarren Mill",
 		["Notrageqtz - Tarren Mill"] = "Notrageqtz - Tarren Mill",
-		["Nothoit - Tarren Mill"] = "Nothoit - Tarren Mill",
+		["Petrølbømb - Tarren Mill"] = "Petrølbømb - Tarren Mill",
 		["Bäsics - Tarren Mill"] = "Bäsics - Tarren Mill",
-		["Blighthöund - Tarren Mill"] = "Blighthöund - Tarren Mill",
+		["Løtüs - Tarren Mill"] = "Løtüs - Tarren Mill",
 		["Notkeuch - Tarren Mill"] = "Notkeuch - Tarren Mill",
 		["Fëlstriker - Tarren Mill"] = "Fëlstriker - Tarren Mill",
 		["Cëll - Tarren Mill"] = "Cëll - Tarren Mill",
-		["Løtüs - Tarren Mill"] = "Løtüs - Tarren Mill",
-		["Petrølbømb - Tarren Mill"] = "Petrølbømb - Tarren Mill",
-		["Fëlblade - Tarren Mill"] = "Fëlblade - Tarren Mill",
+		["Klöse - Silvermoon"] = "Klöse - Silvermoon",
+		["Ööunusedöö - Tarren Mill"] = "Ööunusedöö - Tarren Mill",
+		["Yaöb - Tarren Mill"] = "Yaöb - Tarren Mill",
 		["Moolerlight - Tarren Mill"] = "Moolerlight - Tarren Mill",
 		["Klöse - Tarren Mill"] = "Klöse - Tarren Mill",
 	},
 	["global"] = {
 		["Guilds"] = {
+			["Default.Frostmane.F A D E"] = {
+				["faction"] = "Alliance",
+			},
 			["Default.Tarren Mill.Geez Yer Shoes N Jaykit"] = {
 				["faction"] = "Horde",
+			},
+			["Default.Silvermoon.F A D E"] = {
+				["faction"] = "Alliance",
 			},
 			["Default.Tarren Mill.F A D E"] = {
 				["faction"] = "Horde",
 			},
+			["Default.Frostmane.Stormwinds Elite Guards"] = {
+				["faction"] = "Alliance",
+			},
 		},
 		["Characters"] = {
 			["Default.Tarren Mill.Klöse"] = {
-				["faction"] = "Horde",
 				["guildName"] = "F A D E",
+				["faction"] = "Horde",
 			},
 			["Default.Tarren Mill.Yaöb"] = {
-				["guildName"] = "F A D E",
 				["faction"] = "Horde",
+				["guildName"] = "F A D E",
 			},
 			["Default.Tarren Mill.Nothoit"] = {
-				["guildName"] = "F A D E",
 				["faction"] = "Horde",
+				["guildName"] = "F A D E",
 			},
 			["Default.Tarren Mill.Petrølbømb"] = {
-				["faction"] = "Horde",
 				["guildName"] = "F A D E",
+				["faction"] = "Horde",
 			},
 			["Default.Tarren Mill.Gorë"] = {
+				["guildName"] = "F A D E",
 				["faction"] = "Horde",
+			},
+			["Default.Silvermoon.Nervë"] = {
+				["faction"] = "Alliance",
 				["guildName"] = "F A D E",
 			},
 			["Default.Tarren Mill.Nervë"] = {
+				["faction"] = "Horde",
+				["guildName"] = "F A D E",
+			},
+			["Default.Frostmane.Luká"] = {
+				["guildName"] = "Stormwinds Elite Guards",
+				["faction"] = "Alliance",
+			},
+			["Default.Tarren Mill.Felbladë"] = {
+				["guildName"] = "Geez Yer Shoes N Jaykit",
+				["faction"] = "Horde",
+			},
+			["Default.Tarren Mill.Väel"] = {
 				["guildName"] = "F A D E",
 				["faction"] = "Horde",
 			},
-			["Default.Tarren Mill.Felbladë"] = {
+			["Default.Frostmane.Öak"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Frostmane.Tidës"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "Stormwinds Elite Guards",
+			},
+			["Default.Tarren Mill.Moolerlight"] = {
+				["guildName"] = "F A D E",
 				["faction"] = "Horde",
-				["guildName"] = "Geez Yer Shoes N Jaykit",
+			},
+			["Default.Tarren Mill.Swervë"] = {
+				["faction"] = "Horde",
+				["guildName"] = "F A D E",
+			},
+			["Default.Silvermoon.Klöse"] = {
+				["guildName"] = "F A D E",
+				["faction"] = "Alliance",
 			},
 			["Default.Tarren Mill.Blighthöund"] = {
+				["guildName"] = "F A D E",
 				["faction"] = "Horde",
+			},
+			["Default.Frostmane.Fabr"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "Stormwinds Elite Guards",
+			},
+			["Default.Frostmane.Venedictia"] = {
+				["faction"] = "Alliance",
 				["guildName"] = "F A D E",
 			},
 			["Default.Tarren Mill.Fëlblade"] = {
+				["faction"] = "Horde",
+				["guildName"] = "F A D E",
+			},
+			["Default.Tarren Mill.Tribës"] = {
 				["guildName"] = "F A D E",
 				["faction"] = "Horde",
 			},
 			["Default.Tarren Mill.Dmthyltryp"] = {
-				["guildName"] = "F A D E",
 				["faction"] = "Horde",
+				["guildName"] = "F A D E",
 			},
 			["Default.Tarren Mill.Bäsics"] = {
-				["guildName"] = "F A D E",
 				["faction"] = "Horde",
+				["guildName"] = "F A D E",
 			},
 			["Default.Tarren Mill.Notrageqtz"] = {
-				["faction"] = "Horde",
 				["guildName"] = "F A D E",
+				["faction"] = "Horde",
+			},
+			["Default.Tarren Mill.Ööunusedöö"] = {
+				["faction"] = "Horde",
 			},
 			["Default.Tarren Mill.Løtüs"] = {
-				["faction"] = "Horde",
 				["guildName"] = "F A D E",
-			},
-			["Default.Tarren Mill.Moolerlight"] = {
 				["faction"] = "Horde",
-				["guildName"] = "F A D E",
 			},
 			["Default.Tarren Mill.Fëlstriker"] = {
-				["guildName"] = "F A D E",
 				["faction"] = "Horde",
+				["guildName"] = "F A D E",
 			},
 			["Default.Tarren Mill.Cëll"] = {
-				["guildName"] = "F A D E",
 				["faction"] = "Horde",
+				["guildName"] = "F A D E",
 			},
 			["Default.Tarren Mill.Notkeuch"] = {
-				["guildName"] = "F A D E",
 				["faction"] = "Horde",
+				["guildName"] = "F A D E",
 			},
 		},
 		["ShortToLongRealmNames"] = {
+			["Frostmane"] = "Frostmane",
+			["Silvermoon"] = "Silvermoon",
 			["TarrenMill"] = "Tarren Mill",
 		},
 	},

@@ -1,6 +1,6 @@
 
 DetailsDataStorage = {
-	[16] = {
+	["mythic_plus"] = {
 	},
 	[17] = {
 		[2398] = {
@@ -47,11 +47,11 @@ DetailsDataStorage = {
 	[15] = {
 	},
 	["VERSION"] = 5,
-	["mythic_plus"] = {
+	["saved_encounters"] = {
 	},
 	[14] = {
 	},
-	["saved_encounters"] = {
+	[16] = {
 	},
 	["totalkills"] = {
 		[2398] = {
@@ -121,15 +121,15 @@ DetailsDataStorage = {
 		},
 		[2412] = {
 			[17] = {
-				["time_incombat"] = 978.1780000000017,
-				["time_fasterkill"] = 344.884,
+				["time_incombat"] = 1392.873999999998,
+				["time_fasterkill"] = 414.6959999999963,
 				["wipes"] = 0,
-				["kills"] = 3,
-				["dps_best"] = 5131.701104187781,
+				["kills"] = 4,
+				["dps_best"] = 6233.783308098036,
 				["dps_best_raid"] = 90082.82205031256,
-				["time_fasterkill_when"] = 1661894685,
+				["time_fasterkill_when"] = 1665264281,
 				["dps_best_raid_when"] = 1661894685,
-				["dps_best_when"] = 1661782680,
+				["dps_best_when"] = 1665264281,
 			},
 		},
 		[2383] = {
@@ -225,15 +225,15 @@ DetailsDataStorage = {
 		},
 		[2407] = {
 			[17] = {
-				["time_incombat"] = 2058.156999999995,
+				["time_incombat"] = 2498.95,
 				["time_fasterkill"] = 459.3950000000004,
 				["wipes"] = 0,
-				["kills"] = 5,
-				["dps_best"] = 8515.657406815302,
+				["kills"] = 6,
+				["dps_best"] = 9175.01413189627,
 				["dps_best_raid"] = 132037.6103985056,
 				["time_fasterkill_when"] = 1661780672,
 				["dps_best_raid_when"] = 1663604677,
-				["dps_best_when"] = 1663362545,
+				["dps_best_when"] = 1665265208,
 			},
 		},
 		[2417] = {
